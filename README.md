@@ -16,3 +16,15 @@ _created by Austin Poor_
   * Training script path
   * What data was it trained on?
 
+
+```html
+<i class="fas fa-meteor"></i>
+<i class="fas fa-file"></i>
+<i class="fas fa-terminal"></i>
+<i class="fas fa-hdd"></i>
+<i class="fas fa-memory"></i>
+<i class="fas fa-project-diagram"></i>
+<i class="fas fa-server"></i>
+<i class="fas fa-microchip"></i>
+<i class="fas fa-database"></i>
+```
